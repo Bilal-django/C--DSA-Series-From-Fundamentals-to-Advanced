@@ -1,0 +1,27 @@
+1. Display "Calculator" to indicate the beginning of the program.
+
+2. Declare variables `a` and `b` to store two numbers entered by the user.
+
+3. Prompt the user to "Enter your first number:"
+   - Read input from the user and store it in `a`.
+
+4. Prompt the user to "Enter your second number:"
+   - Read input from the user and store it in `b`.
+
+5. Declare variables `sum`, `sub`, `mul`, and `div` to store the results of operations.
+
+6. Perform calculations:
+   - Set `sum` to the result of `a + b` (addition of first and second numbers).
+   - Set `sub` to the result of `a - b` (subtraction of second number from first).
+   - Set `mul` to the result of `a * b` (multiplication of first and second numbers).
+   - Set `div` to the result of `a / b` (division of first number by second).
+
+7. Display the results:
+   - Print "The sum of first two numbers is:" followed by `sum`.
+   - Print "The subtraction of first two numbers is:" followed by `sub`.
+   - Print "The multiplication of first two numbers is:" followed by `mul`.
+   - Print "The division of first two numbers is:" followed by `div`.
+
+8. Pause the system to allow the user to view results.
+
+9. END
